@@ -63,4 +63,12 @@ A smart classroom system that integrates **ESP32**, **Blynk**, **Raspberry Pi**,
 
 ---
 
+## 🎥 Demo Video
+
+<a href="https://youtu.be/CB-qfbooEfg?si=cR_doHRrJSpH6A1b" target="_blank">
+  <img src="https://img.youtube.com/vi/CB-qfbooEfg/0.jpg" alt="Smart LT System Demo" width="500"/>
+</a>
+
+---
+
 
